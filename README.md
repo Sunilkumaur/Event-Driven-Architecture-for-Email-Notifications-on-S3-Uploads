@@ -11,6 +11,8 @@ Key features include robust error handling in Lambda for retries and failures, r
 
 This event-driven architecture reduces manual intervention, providing real-time, reliable notifications. It can be easily extended for broader applications, such as triggering data pipelines, monitoring compliance, or auditing uploaded content. By leveraging AWS's suite of services, this solution showcases expertise in designing efficient, scalable, and automated workflows tailored to business needs.
 
+![Untitled-2024-12-14-1154](https://github.com/user-attachments/assets/917b5947-71af-43ed-9796-d691629b6d39)
+
 ![Screenshot 2024-12-15 203822](https://github.com/user-attachments/assets/eb639727-7795-4bc8-a734-e9b68e91e35f)
 ![Screenshot 2024-12-15 203845](https://github.com/user-attachments/assets/75ea10c4-cbfb-4c0f-b1fa-0cd6d1fa454a)
 ![Screenshot 2024-12-15 203913](https://github.com/user-attachments/assets/08aa380a-aa3c-4afc-85bf-376a95009210)
