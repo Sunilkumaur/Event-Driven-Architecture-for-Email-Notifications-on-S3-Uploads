@@ -3,7 +3,7 @@ import boto3
 
 def lambda_handler(event, context):
     sns_client = boto3.client('sns')
-    topic_arn = 'arn:aws:sns:your-region:your-account-id:ImageUploadNotification'
+    topic_arn = 'arn:aws:sns:my-region:my-account-id:ImageUploadNotification'
     
     # Parse the S3 event
     for record in event['Records']:
